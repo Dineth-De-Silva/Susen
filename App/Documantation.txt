@@ -1,0 +1,3 @@
+Exit
+Convert 1000g to kg
+Convert 1kg to g
